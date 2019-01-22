@@ -1,0 +1,22 @@
+.slideBody {
+  line-height: 32px;
+  height: 32px;
+  display: block;
+  padding:0 15px;
+}
+.slideBody ul{margin:0;}
+.typing{
+	padding-left:18px;
+}
+.fade > li,.slide > li,.typing > li {
+    list-style: none inside none;
+}
+.label {
+  display: block;
+  float: left;
+  line-height: 32px;
+  margin-right: 20px;
+}
+.slideBody ul li{display:block; line-height:32px;}
+.slideBody ul li a{ text-decoration:none;}
+

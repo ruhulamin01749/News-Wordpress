@@ -1,0 +1,136 @@
+.ldc-code { background-color: #FFFFFF; border: 3px solid #98D1F9; color: #144F68; font-family: monospace; line-height: 20px; margin-top: 5px; padding: 4px 5px; }
+
+
+#ldc_settPage .hndle{
+    background: none repeat scroll 0 0 #2BA6FF;
+    border: 1px solid #2BA6FF;
+    border-radius: 0 0 0 0;
+    box-shadow: none;
+    font-family: arial;
+    font-size: 22px;
+    line-height: 28px;
+    text-transform: uppercase;
+}
+
+#ldc_settPage .hndle span{
+	color:#fff;
+	text-shadow: none;
+}
+
+#ldc_settPage #post_settings_box{
+	border: 1px solid #2BA6FF;
+	border-radius: 0 0 0 0;
+}
+
+.ldclite-wrapper #wp_banner{
+    background: url("../images/banner.jpg") no-repeat scroll center center transparent;
+   border: 1px solid #2BA6FF;
+    height: 131px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 3px;
+    width: 696px;
+}
+
+.ldclite-wrapper #wp_banner #mc-embedded-subscribe-form{
+    margin: 0 0 0 176px;
+    padding: 0;
+}
+
+.ldclite-wrapper #wp_banner #mc_embed_signup .mc-field-group{
+    min-height: 45px;
+    padding-bottom: 0;
+    width: 100%;
+}
+
+.ldclite-wrapper #wp_banner #mc_embed_signup .mc-field-group input[type='email']{
+	background: none repeat scroll 0 0 transparent;
+	border: 0 none;
+	color: #777777;
+	display: block;
+	float: left;
+	font-family: verdana;
+	font-size: 14px;
+	font-weight: bold;
+	margin-top: 6px;
+	padding: 8px 0;
+	text-indent: 2%;
+	width: 341px;
+	border-radius:0;
+}
+.ldclite-wrapper #wp_banner #mc_embed_signup .mc-field-group input[type='submit']{
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border: 0 none;
+    border-radius: 0;
+    box-shadow: none;
+    clear: none;
+    float: left;
+    margin: 7px 0 0 19px;
+    width: 141px;
+}
+
+.ldclite-wrapper #wp_banner .bot_section{
+	width:100%;
+	height:86px;
+}
+
+.ldclite-wrapper #wp_banner .bot_section a{
+	float:left;
+	display:block;
+	width:45px;
+	height:45px;
+	margin-top: 15px;
+	outline:none;
+}
+
+.ldclite-wrapper #wp_banner .bot_section a.wplogo{
+    height: 70px;
+    margin-left: 271px;
+    width: 150px;
+}
+.ldclite-wrapper #wp_banner .bot_section a.fbicon{
+    margin-left: 138px;
+}
+.ldclite-wrapper #wp_banner .bot_section a.twicon{
+	margin-left:15px;
+}
+
+.ldclite-form{
+	padding:10px;
+	border:1px solid #2BA6FF;
+}
+.ldclite-form input[type="submit"]{
+	background: none repeat scroll 0 0 #000000;
+    border: 0 none;
+    border-radius: 0 0 0 0;
+    font-size: 24px;
+    height: 42px;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+.ldclite-form input[type="submit"]:hover{
+	background: none repeat scroll 0 0 #2BA6FF;
+	color:#fff;
+}
+
+.ldclite-form input[type="text"]{
+	border:1px solid #2BA6FF;
+	border-radius: 0 0 0 0;
+	background:#fff;
+	padding: 5px;
+    width: 200px;
+}
+
+.ldclite-form #poststuff .inside{
+	background:#fff;
+}
+
+.ldclite_iframe{
+	border:1px solid #2BA6FF;
+	padding: 4px;
+}
+
+.ldclite-form #poststuff{
+	min-width:inherit;
+}

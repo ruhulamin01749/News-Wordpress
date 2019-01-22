@@ -1,0 +1,12 @@
+.clearfix:after {content: ".";display: block;clear: both;visibility: hidden;line-height: 0;height: 0;}
+.clearfix {display: block;}
+html[xmlns] .clearfix {display: block;}
+* html .clearfix {height: 1%;}
+.ldc-ul_cont{position:relative; background-color: #E0E0E0; background-image: linear-gradient(to bottom, #FAFAFA 0px, #DCDCDC 100%); border-color: #CCCCCC #CCCCCC #AAAAAA; box-shadow: 0 0 1px #FFFFFF inset; text-shadow: 0 1px 0 #FFFFFF; border-radius: 2px 2px 2px 2px; border-style: solid; border-width: 1px; cursor: pointer; font-size: 11px; font-weight: bold; height: 2.0em; margin-bottom: 15px; outline: 0 none; padding: 0 0.91em; position: relative; vertical-align: middle; white-space: nowrap; word-wrap: normal; float:left; } 
+.ldc-ul_cont img{
+	background: none repeat scroll 0 0 transparent;
+    box-shadow: none;
+    margin: 0 3px;
+    position: relative;
+    top: 3px;
+}

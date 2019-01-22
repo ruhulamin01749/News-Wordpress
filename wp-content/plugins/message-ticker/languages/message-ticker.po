@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: message ticker\n"
+"POT-Creation-Date: 2014-08-02 10:21+0800\n"
+"PO-Revision-Date: 2014-08-02 10:21+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../message-ticker.php:249 ../message-ticker.php:270
+#: ../message-ticker.php:280 ../message-ticker.php:285
+#: ../pages/content-management-add.php:95
+#: ../pages/content-management-edit.php:118
+#: ../pages/content-management-show.php:52 ../pages/content-setting.php:6
+msgid "message ticker"
+msgstr ""
+
+#: ../message-ticker.php:272 ../pages/content-management-add.php:156
+#: ../pages/content-management-edit.php:185
+#: ../pages/content-management-show.php:132 ../pages/content-setting.php:78
+msgid "Check official website for more information"
+msgstr ""
+
+#: ../message-ticker.php:273 ../pages/content-management-add.php:157
+#: ../pages/content-management-edit.php:186
+#: ../pages/content-management-show.php:133 ../pages/content-setting.php:79
+msgid "click here"
+msgstr ""
+
+#: ../pages/content-management-add.php:27
+#: ../pages/content-management-edit.php:55
+msgid "Please enter the text."
+msgstr ""
+
+#: ../pages/content-management-add.php:34
+#: ../pages/content-management-edit.php:62
+msgid "Please enter the display order, only number."
+msgstr ""
+
+#: ../pages/content-management-add.php:41
+#: ../pages/content-management-edit.php:69
+msgid "Please select the display status."
+msgstr ""
+
+#: ../pages/content-management-add.php:60
+msgid "New details was successfully added."
+msgstr ""
+
+#: ../pages/content-management-add.php:86
+#: ../pages/content-management-edit.php:109
+msgid "Click here to view the details"
+msgstr ""
+
+#: ../pages/content-management-add.php:97
+msgid "Add details"
+msgstr ""
+
+#: ../pages/content-management-add.php:99
+#: ../pages/content-management-edit.php:122
+msgid "Enter the message/announcement"
+msgstr ""
+
+#: ../pages/content-management-add.php:101
+#: ../pages/content-management-edit.php:124
+msgid "Please enter your message. Enter &lt;br&gt; to line break."
+msgstr ""
+
+#: ../pages/content-management-add.php:103
+#: ../pages/content-management-edit.php:126
+msgid "Display status"
+msgstr ""
+
+#: ../pages/content-management-add.php:108
+#: ../pages/content-management-edit.php:131
+msgid "Do you want to show this announcement in your scroll?"
+msgstr ""
+
+#: ../pages/content-management-add.php:110
+#: ../pages/content-management-edit.php:133
+msgid "Display order"
+msgstr ""
+
+#: ../pages/content-management-add.php:112
+#: ../pages/content-management-edit.php:135
+msgid ""
+"What order should this announcement be played in. should it come 1st, 2nd, "
+"3rd, etc.."
+msgstr ""
+
+#: ../pages/content-management-add.php:114
+#: ../pages/content-management-edit.php:137
+msgid "Message group"
+msgstr ""
+
+#: ../pages/content-management-add.php:139
+#: ../pages/content-management-edit.php:168
+msgid "Please select your announcement group."
+msgstr ""
+
+#: ../pages/content-management-add.php:141
+#: ../pages/content-management-edit.php:170
+msgid "Expiration date"
+msgstr ""
+
+#: ../pages/content-management-add.php:143
+#: ../pages/content-management-edit.php:172
+msgid ""
+"Please enter the expiration date in this format YYYY-MM-DD <br /> "
+"9999-12-31 : Is equal to no expire."
+msgstr ""
+
+#: ../pages/content-management-add.php:148
+#: ../pages/content-management-edit.php:177 ../pages/content-setting.php:70
+msgid "Submit"
+msgstr ""
+
+#: ../pages/content-management-add.php:149
+#: ../pages/content-management-edit.php:178 ../pages/content-setting.php:71
+msgid "Cancel"
+msgstr ""
+
+#: ../pages/content-management-add.php:150
+#: ../pages/content-management-edit.php:179
+#: ../pages/content-management-show.php:121 ../pages/content-setting.php:72
+msgid "Help"
+msgstr ""
+
+#: ../pages/content-management-edit.php:17
+#: ../pages/content-management-show.php:22
+msgid "Oops, selected details doesnt exist."
+msgstr ""
+
+#: ../pages/content-management-edit.php:93
+msgid "Details was successfully updated."
+msgstr ""
+
+#: ../pages/content-management-edit.php:120
+msgid "Update details"
+msgstr ""
+
+#: ../pages/content-management-show.php:40
+msgid "Selected record was successfully deleted."
+msgstr ""
+
+#: ../pages/content-management-show.php:52
+#: ../pages/content-management-show.php:119
+msgid "Add New"
+msgstr ""
+
+#: ../pages/content-management-show.php:65
+#: ../pages/content-management-show.php:75
+msgid "Text"
+msgstr ""
+
+#: ../pages/content-management-show.php:66
+#: ../pages/content-management-show.php:67
+#: ../pages/content-management-show.php:76
+#: ../pages/content-management-show.php:77
+msgid "Display"
+msgstr ""
+
+#: ../pages/content-management-show.php:68
+#: ../pages/content-management-show.php:78
+msgid "Group"
+msgstr ""
+
+#: ../pages/content-management-show.php:69
+#: ../pages/content-management-show.php:79
+msgid "Expiration"
+msgstr ""
+
+#: ../pages/content-management-show.php:94
+msgid "Edit"
+msgstr ""
+
+#: ../pages/content-management-show.php:95
+msgid "Delete"
+msgstr ""
+
+#: ../pages/content-management-show.php:109
+msgid "No records available."
+msgstr ""
+
+#: ../pages/content-management-show.php:120
+msgid "Setting"
+msgstr ""
+
+#: ../pages/content-management-show.php:125
+msgid "Plugin configuration option"
+msgstr ""
+
+#: ../pages/content-management-show.php:127
+msgid "Add the plugin in the posts or pages using short code."
+msgstr ""
+
+#: ../pages/content-management-show.php:128
+msgid "Add directly in to the theme using PHP code."
+msgstr ""
+
+#: ../pages/content-management-show.php:129
+msgid "Drag and drop the widget to your sidebar."
+msgstr ""
+
+#: ../pages/content-setting.php:36
+msgid "Details successfully updated."
+msgstr ""
+
+#: ../pages/content-setting.php:43
+msgid "Widget setting"
+msgstr ""
+
+#: ../pages/content-setting.php:44
+msgid "Widget title"
+msgstr ""
+
+#: ../pages/content-setting.php:46
+msgid "Please enter your widget title."
+msgstr ""
+
+#: ../pages/content-setting.php:48
+msgid "Widget width"
+msgstr ""
+
+#: ../pages/content-setting.php:50
+msgid "Please enter widget width"
+msgstr ""
+
+#: ../pages/content-setting.php:52
+msgid "Widget height"
+msgstr ""
+
+#: ../pages/content-setting.php:54
+msgid "Please enter widget height"
+msgstr ""
+
+#: ../pages/content-setting.php:56
+msgid "Global setting"
+msgstr ""
+
+#: ../pages/content-setting.php:57
+msgid "Delay (Global setting)"
+msgstr ""
+
+#: ../pages/content-setting.php:59
+msgid "Please enter your ticker delay."
+msgstr ""
+
+#: ../pages/content-setting.php:61
+msgid "Speed (Global setting)"
+msgstr ""
+
+#: ../pages/content-setting.php:63
+msgid "Please enter your ticker speed."
+msgstr ""
+
+#: ../pages/content-setting.php:65
+msgid "No message text"
+msgstr ""
+
+#: ../pages/content-setting.php:67
+msgid ""
+"This text will be display, if no announcement available or all announcement "
+"expired."
+msgstr ""
